@@ -18,7 +18,7 @@ dotnet build
 To run the application, use:
 
 ```
-dotnet run
+dotnet run --project src/ConsoleAppRedTrust.csproj
 ```
 
 ## How to test the project
